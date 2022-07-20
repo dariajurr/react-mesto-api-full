@@ -1,0 +1,11 @@
+.nav__link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.2;
+    color: #A9A9A9; 
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    opacity: 0.6;
+}

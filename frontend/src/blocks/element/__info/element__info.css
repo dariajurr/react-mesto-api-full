@@ -1,0 +1,6 @@
+.element__info {
+  display: grid;
+  grid-template-columns: 1fr 22px;
+  align-items: center;
+  padding: 22px 20px;
+}

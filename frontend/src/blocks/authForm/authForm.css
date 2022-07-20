@@ -1,0 +1,7 @@
+.authForm {
+    box-sizing: border-box;
+    width: 100%;
+    height: calc(100% - 124px);
+    padding-top: 60px;
+    color: #FFFFFF;    
+}

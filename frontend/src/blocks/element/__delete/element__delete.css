@@ -1,0 +1,16 @@
+.element__delete {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 18px;
+  height: 19px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  background: url(../../../images/bucket.svg);
+  transition: opacity .3s ease;
+}
+
+.element__delete:hover {
+  opacity: 0.6;
+}

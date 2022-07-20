@@ -1,0 +1,16 @@
+.authForm__btn {
+    width: 100%;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 2px;
+    padding: 14px 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.2;
+    color: #000000;
+    cursor: pointer;
+}
+
+.authForm__btn:hover {
+    opacity: 0.85;
+}

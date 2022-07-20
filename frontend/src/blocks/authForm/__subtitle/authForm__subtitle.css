@@ -1,0 +1,15 @@
+.authForm__subtitle {
+    display: block;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.2;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    cursor: pointer;
+}
+
+.authForm__subtitle:hover {
+    opacity: 0.6;
+}

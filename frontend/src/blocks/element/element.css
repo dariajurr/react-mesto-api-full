@@ -1,0 +1,14 @@
+.element {
+  position: relative;
+  max-width: 282px;
+  border-radius: 10px;
+  background: #fff;
+  overflow: hidden;
+  color: #000;
+}
+
+@media screen and (max-width: 880px) {
+  .element {
+    justify-self: center;
+  }
+}

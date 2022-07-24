@@ -54,11 +54,11 @@ app.post('/signup', singupValidation, postUser);
 app.use('/users', auth, userRouter);
 app.use('/cards', auth, cardRouter);
 
-app.use(errorLogger);
-
 app.use((req, res, next) => {
   next(new NotFoundError('Страницы не существует'));
 });
+
+app.use(errorLogger);
 
 app.use(errors());
 

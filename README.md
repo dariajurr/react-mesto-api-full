@@ -9,4 +9,4 @@
 - Express
 - MongoDB
 
-Посмотреть можно [здесь](https://dariajurr.students.nomoredomains.xyz)
+Посмотреть можно [здесь](https://mesto.dariajurr.site)
